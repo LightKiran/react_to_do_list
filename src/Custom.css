@@ -1,0 +1,20 @@
+
+#dlt{
+    background-color: rgb(253, 174, 200);
+    margin-left: 30px;
+    align-content: center;
+}
+
+.container{
+    margin-right: 55px;
+}
+
+#add{
+    background-color: lightgreen;
+    margin-left: 30px;
+}
+
+h1 {
+    text-align: center;
+    color: blueviolet;
+}
